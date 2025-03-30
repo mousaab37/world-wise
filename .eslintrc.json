@@ -1,0 +1,10 @@
+{
+  "extends": "react-app",
+  "rules": {
+    "react/prop-types": [
+      0,
+      { "ignore": [], "customValidators": [], "skipUndeclared": [] }
+    ],
+    "no-unused-vars": "off"
+  }
+}
